@@ -19,7 +19,7 @@ function Contador(){
 function Home(){
     return (
         <div>
-            <h4>Home</h4>
+            <h4>Pagina Inicial</h4>
             <Contador />
             <div>Teste</div>
         </div>
